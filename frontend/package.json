@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "start": "NODE_ENV=production node_modules/react-scripts/bin/react-scripts.js start"
   },
   "keywords": [],
   "author": "niti",
