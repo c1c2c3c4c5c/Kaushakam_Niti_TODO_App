@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "react-script start",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "react-scripts build",
-    "start": "react-script start"
+    
   },
   "keywords": [],
   "author": "niti",
