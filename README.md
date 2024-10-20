@@ -1,9 +1,6 @@
 # MERN TODO List App
 
 This is a TODO List application built using the MERN stack. It allows users to manage their tasks effectively.
-The frontend part is the src and public folder, while the backend files are uploaded separately in the branch itself.
- 
-
 ## Usage
 
 - Open your web browser and go to `http://localhost:3000`.
